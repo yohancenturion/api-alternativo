@@ -1,0 +1,19 @@
+[
+    {"nombre":"My Hero Academy",
+    "género":"shonen",
+    "precio":"590",
+    "n°de serie": "1234",
+    "autor":"Kohei Horikoshi"}
+    
+    {"nombre":"The Promised Nerverland",
+     "género":"shonen",
+     "precio":"690",
+     "n°de serie":"1123",
+     "autor": "Kaiu Shirai"}
+
+     {"nombre":"Jujutsu Kaisen",
+      "género":"shonen",
+      "precio":"1223",
+      "n°de serie":"1",
+      "autor":"Gege Akutami"}
+]
